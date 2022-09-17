@@ -5,7 +5,6 @@
 
 ## I'm a Full Stack Web Developer!!
 
-- 🔭 I’m currently working on Asp.Net
 - 💬 Ask me about ***C#, C++, JavaScript, JQuery, Asp.Net, SQL Server, Entity Framework, AWS, Docker***
 - ⚡ Fun fact: I love to sleep
 - 👯 I’m looking to collaborate with other developer
