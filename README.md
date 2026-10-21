@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mehedi+Hasan+%F0%9F%91%8B;.NET+Full+Stack+Developer;ASP.NET+Core+%C2%B7+Angular+%C2%B7+Azure;I+build+scalable%2C+cloud-deployed+systems" alt="Typing intro" />
 
 <p>
-  <a href="https://YOUR-DOMAIN-HERE"><img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://znmehedi.github.io"><img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/znmehedi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:zn.mehedi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
